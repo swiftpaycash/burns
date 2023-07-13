@@ -1,5 +1,5 @@
 dbPassword22 = 'mongodb://localhost:27017/mern2';
-dbPassword= 'mongodb+srv://rocketwalletsignal:HelloToday@cluster0.9l7ec.mongodb.net/DefiMillionUsers';
+dbPassword= 'mongodb+srv://burns:burnspass@burns.mqdauuk.mongodb.net/BurnsUsers';
 module.exports = {
     mongoURI: dbPassword
 };
